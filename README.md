@@ -26,7 +26,31 @@ That means no micro controllers as in common case.
   <img src="https://github.com/user-attachments/assets/8c0d613e-52f0-47c5-8377-b19cd23ffdaf" width="400"/>
 </p>
 
+# Software Specifications
+- Altium Designer
+- Solidworks
+- LT Spice
 
+# Enclosure Design
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/931c004f-7da6-4d37-a7f1-5f00fec0c134" width="400"/>
+</p>
+
+# PCB Design
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c1592424-59ad-46cc-b766-d61c94f8a6c7" width="400"/>
+</p>
+
+# Final PCB
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e824335f-8a58-4700-8a8c-0ff261a70ca0" width="400"/>
+</p>
+
+# Group Members
+- Kumarasinghe M.N.
+- Wedamestrige A.N.
+- Ranathunga R.J.K.O.H.
+- Himasara W.V.M.J.
 
 
 
