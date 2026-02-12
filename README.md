@@ -7,6 +7,7 @@ That means no micro controllers as in common case.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6fefdec3-7dbc-4b5b-8b93-a715bf572a0f" width="400"/>
 </p>
+# Working Concept
 
 
 
