@@ -8,7 +8,6 @@ That means no micro controllers as in common case.
   <img src="https://github.com/user-attachments/assets/6fefdec3-7dbc-4b5b-8b93-a715bf572a0f" width="400"/>
 </p>
 
-# Working Concept
 ## 🔧 Working Principle
 
 - Fully autonomous control implemented **without any microcontroller**
@@ -23,6 +22,10 @@ That means no micro controllers as in common case.
 - Analog adders and subtractors create **differential drive signals** for left and right motors
 - Control voltage is converted into **PWM using a comparator and triangular wave generator**
 - PWM signals drive the motor driver for precise speed and direction control
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8c0d613e-52f0-47c5-8377-b19cd23ffdaf" width="400"/>
+</p>
+
 
 
 
