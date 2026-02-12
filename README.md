@@ -52,8 +52,8 @@ That means no micro controllers as in common case.
 - Ranathunga R.J.K.O.H.
 - Himasara W.V.M.J.
 
-  # For More Info -
-  Project Report - https://github.com/kumarasinghemn/Fully-Analog-Line-Following-Robot/blob/main/Report.pdf
+# For More Info -
+Project Report - https://github.com/kumarasinghemn/Fully-Analog-Line-Following-Robot/blob/main/Report.pdf
 
 
 
